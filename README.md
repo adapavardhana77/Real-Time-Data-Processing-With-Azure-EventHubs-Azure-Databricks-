@@ -9,6 +9,9 @@ It follows a **STREAM PROCESSING** approach to capture, process, and analyze liv
 
 The solution implements a modern **data lakehouse streaming pattern** with **Azure services** and **PySpark Structured Streaming**.
 
+![Architecture Diagram](./Azure%20Solution%20Architecture.png)
+
+
 ### **Data Source — Simulated Weather Data**
 - JSON weather data containing **temperature, humidity, wind speed**, and other attributes.
 
