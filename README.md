@@ -1,4 +1,4 @@
-#REAL-TIME-DATA-PROCESSING-WITH-AZURE-DATABRICKS — 
+**#REAL-TIME-DATA-PROCESSING-WITH-AZURE-DATABRICKS** — 
 PROJECT OVERVIEW
 
 This project demonstrates an end-to-end real-time data streaming pipeline using Azure Event Hub and Azure Databricks.
